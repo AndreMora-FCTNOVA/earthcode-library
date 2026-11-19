@@ -1,0 +1,49 @@
+[
+  {
+    "person_or_org": {
+      "type": "personal",
+      "family_name": "Pereira-Pires",
+      "given_name": "João E.",
+      "identifiers": [{ "scheme": "orcid", "identifier": "0000-0003-2957-6372" }]
+    },
+      "affiliations": [{ "name": "Center of Technology and Systems, UNINOVA" }]
+  },
+  {
+    "person_or_org": {
+      "type": "personal",
+      "family_name": "Guerra Hernández",
+      "given_name": "Juan",
+      "identifiers": [{ "scheme": "orcid", "identifier": "0000-0003-3518-2978" }]
+    },
+      "affiliations": [{ "name": "Centro de Estudos Florestais, ISA" }]
+  },
+    {
+    "person_or_org": {
+      "type": "personal",
+      "family_name": "Saarela",
+      "given_name": "Svetlana",
+      "identifiers": [{ "scheme": "orcid", "identifier": "0000-0002-9044-7249" }]
+    },
+      "affiliations": [{ "name": "Norwegian University of Life Sciences" }]
+  },
+      {
+    "person_or_org": {
+      "type": "personal",
+      "family_name": "Mora",
+      "given_name": "André",
+      "identifiers": [{ "scheme": "orcid", "identifier": "0000-0003-1354-4739" }]
+    },
+      "affiliations": [{ "name": "Universidade Nova de Lisboa" },
+      { "name": "Center of Technology and Systems, UNINOVA" }]
+  },
+      {
+    "person_or_org": {
+      "type": "personal",
+      "family_name": "Fonseca",
+      "given_name": "José M.",
+      "identifiers": [{ "scheme": "orcid", "identifier": "0000-0001-7173-7374" }]
+    },
+      "affiliations": [{ "name": "Universidade Nova de Lisboa" },
+      { "name": "Center of Technology and Systems, UNINOVA" }]
+  }
+]
