@@ -1,0 +1,84 @@
+{
+  "providers": [
+    {
+      "name": "André Mora",
+      "description": "Project leader",
+      "roles": [
+        "producer"
+      ],
+      "url": "https://orcid.org/0000-0003-1354-4739"
+    },
+    {
+      "name": "João Pereira-Pires",
+      "description": "Contact person for the dataset and workflow",
+      "roles": [
+        "contributor"
+      ],
+      "url": "https://orcid.org/0000-0003-2957-6372"
+    },
+    {
+      "name": "José Manuel Fonseca",
+      "description": "Researcher",
+      "roles": [
+        "contributor"
+      ],
+      "url": "https://orcid.org/0000-0001-7173-7374"
+    },
+    {
+      "name": "UNINOVA - Institute for the Development of New Technologies",
+      "description": "Affiliation and processing organization",
+      "roles": [
+        "processor"
+      ],
+      "url": "https://ror.org/0373te416"
+    },
+    {
+      "name": "João Neves-Silva",
+      "description": "Project leader at CEF-ISA",
+      "roles": [
+        "producer"
+      ],
+      "url": "https://orcid.org/0000-0001-5201-9836"
+    },
+    {
+      "name": "Juan Guerra-Hernandez",
+      "description": "Contact person for the dataset at CEF-ISA",
+      "roles": [
+        "contributor"
+      ],
+      "url": "https://orcid.org/0000-0003-3518-2978"
+    },
+    {
+      "name": "Amal Anil-Lathika",
+      "description": "Researcher",
+      "roles": [
+        "contributor"
+      ],
+      "url": "https://orcid.org/0009-0007-2702-0457"
+    },
+    {
+      "name": "Centro de Estudos Florestais, ISA",
+      "description": "Partner organization",
+      "roles": [
+        "processor"
+      ],
+      "url": "https://ror.org/002b5je16"
+    },
+    {
+      "name": "Svetlana Saarela",
+      "description": "Project leader at NBMU",
+      "roles": [
+        "contributor"
+      ],
+      "url": "https://orcid.org/0000-0002-9044-7249"
+    },
+    {
+      "name": "Norwegian University of Life Sciences",
+      "description": "Partner organization",
+      "roles": [
+        "processor"
+      ],
+      "url": "https://ror.org/04a1mvv97"
+    }
+  ]
+}
